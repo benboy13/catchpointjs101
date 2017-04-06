@@ -1,3 +1,3 @@
-var a = "my name is ";
-var b = "ben";
-console.log(a + b);
+var abc = 'my name is ';
+var bcd = 'ben';
+console.log(abc + bcd);
